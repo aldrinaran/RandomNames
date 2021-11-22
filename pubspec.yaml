@@ -1,5 +1,5 @@
 name: random_name_generator
-description: An app to generate full name by call api from an api developed by https://randomuser.me/ 
+description: An app to generate full name by calling api developed by https://randomuser.me/ 
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
