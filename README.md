@@ -15,6 +15,8 @@ Yours sincerely,
 
 
 
-Aldrin Aran Bilong,\n
-Sarawak, Malaysia.\n
+Aldrin Aran Bilong,
+
+Sarawak, Malaysia.
+
 aldrinaranbilong@gmail.com
