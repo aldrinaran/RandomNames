@@ -1,5 +1,5 @@
 # Random Names
-Welcome to the Random Names for Android! This is an app to generate full name by call api from an api developed by https://randomuser.me/
+Welcome to the Random Names for Android! This is an app to generate full name by calling an api developed by https://randomuser.me/
 
 This is an open source Android app developed using https://flutter.dev/ by Aldrin Aran Bilong. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
